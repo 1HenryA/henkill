@@ -16,10 +16,11 @@ Instalação
  
     $ sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 
-Verifique se o iptables e o git estão instalados:
+Verifique se o iptables, git e o make estão instalados:
  
     $ sudo apt install iptables
     $ sudo apt install git
+    $ sudo apt install make
 
 Instale o Henkill:
 
